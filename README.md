@@ -50,4 +50,4 @@ Austo Motor Company raised concerns about the effectiveness of their current mar
 
 ## Author
 Gaurav Kumar 
-[LinkedIn](https://www.linkedin.com/in/YOURNAME) | [GitHub](https://github.com/YOURUSERNAME)
+[LinkedIn](https://www.linkedin.com/in/gaurav-kumar-rd/) | [GitHub](https://github.com/YOURUSERNAME)
