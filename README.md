@@ -16,9 +16,9 @@ Austo Motor Company raised concerns about the effectiveness of their current mar
 ---
 
 ## Key Insights (Examples)
-- 🧑‍💼 Married professionals with higher salaries are more likely to buy premium models.
-- 💸 Customers without existing house/personal loans prefer mid-priced vehicles.
-- 👩‍❤️‍👨 Partner income significantly influences total purchasing power.
+- Married professionals with higher salaries are more likely to buy premium models.
+- Customers without existing house/personal loans prefer mid-priced vehicles.
+- Partner income significantly influences total purchasing power.
 
 ---
 
