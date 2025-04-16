@@ -11,7 +11,7 @@ The goal is to help the marketing team tailor campaigns and improve the customer
 ## Objective
 Austo Motor Company raised concerns about the effectiveness of their current marketing strategies. As a Data Analyst, your task is to explore customer data and extract actionable insights to support strategic decisions.
 
-> See full business objective in [`docs/Objective.docx`]([https://github.com/rdgaurav04/austo-motor-analysis/blob/main/Objective.docx])
+> See full business objective in [`[https://github.com/rdgaurav04/austo-motor-analysis/blob/main/Objective.docx]`]([docs/Objective.docx])
 
 ---
 
